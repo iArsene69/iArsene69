@@ -12,7 +12,7 @@ Skills: Laravel / PHP / JS / HTML / CSS
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='25'>](https://github.com/iArsene69)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='25'>](https://www.instagram.com/nite.nyx/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='25'>](https://codepen.io/iArsene69)  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iArsene69&hide_progress=true&theme=tokyonight)      
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iArsene69&theme=tokyonight)      
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iArsene69&show_icons=true&theme=tokyonight)
 
