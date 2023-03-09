@@ -7,7 +7,7 @@ Skills: Laravel / PHP / JS / HTML / CSS
 
 - 🔭 I’m currently working on Laravel 
 - 🌱 I’m currently learning React Js 
-- ⚡ Fun fact: Spiders is the only web designer that love bugs in their webs. 
+- ⚡ Fun fact: Spiders are the only web designer that love bugs in their webs. 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='25'>](https://github.com/iArsene69)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='25'>](https://www.instagram.com/nite.nyx/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='25'>](https://codepen.io/iArsene69)  
