@@ -10,7 +10,7 @@ Skills: Laravel / PHP / JS / HTML / CSS
 - ⚡ Fun fact: Spiders are the only web designer that love bugs in their webs. 
 
 
-[<img src='https://github.com/iArsene69/iArsene69/blob/main/github-svgrepo-com.svg' alt='github' height='25'>](https://github.com/iArsene69)  [<img src='https://github.com/iArsene69/iArsene69/blob/main/instagram-svgrepo-com.svg' alt='instagram' height='25'>](https://www.instagram.com/nite.nyx/)  [<img src='https://github.com/iArsene69/iArsene69/blob/main/codepen-svgrepo-com.svg' alt='codepen' height='25'>](https://codepen.io/iArsene69)  
+[<img src='https://github.com/iArsene69/iArsene69/blob/main/github-svgrepo-com.svg' alt='github' height='45'>](https://github.com/iArsene69)  [<img src='https://github.com/iArsene69/iArsene69/blob/main/instagram-svgrepo-com.svg' alt='instagram' height='45'>](https://www.instagram.com/nite.nyx/)  [<img src='https://github.com/iArsene69/iArsene69/blob/main/codepen-svgrepo-com.svg' alt='codepen' height='45'>](https://codepen.io/iArsene69)  
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iArsene69&layout=compact&theme=tokyonight)      
 
