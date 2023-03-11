@@ -1,7 +1,7 @@
-### Hi there 👋, I am an Ordinary Human Being
+## Hi there 👋, I am an Ordinary Human Being
 ![](https://github.com/iArsene69/iArsene69/blob/main/banner.jpg)
 
-## I am a merely newbie who just got into this rabbit hole called programming.
+### I am a merely newbie who just got into this rabbit hole called programming.
 
 -🔰 Currently working and learning on: 
 
@@ -10,7 +10,7 @@
 
 -⚡Fun fact: 
 
-   # Spiders are the only web designer that love bugs in their webs. 
+    Spiders are the only web designer that love bugs in their webs. 
 
 -🔗 My Socials:
 
