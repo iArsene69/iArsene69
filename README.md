@@ -15,7 +15,7 @@
 
 #### 🔗 My Socials:
 
-[<img src='https://github.com/iArsene69/iArsene69/blob/main/github-svgrepo-com.svg' alt='github' height='30'>](https://github.com/iArsene69)  [<img src='https://github.com/iArsene69/iArsene69/blob/main/instagram-svgrepo-com.svg' alt='instagram' height='30'>](https://www.instagram.com/nite.nyx/)  [<img src='https://github.com/iArsene69/iArsene69/blob/main/codepen-svgrepo-com.svg' alt='codepen' height='30'>](https://codepen.io/iArsene69)  
+[<img src='https://github.com/iArsene69/iArsene69/blob/main/github-svgrepo-com.svg' alt='github' height='30'>](https://github.com/iArsene69)  [<img src='https://github.com/iArsene69/iArsene69/blob/main/instagram-svgrepo-com.svg' alt='instagram' height='30'>](https://www.instagram.com/nite.nyx/)  [<img src='https://github.com/iArsene69/iArsene69/blob/main/codepen-svgrepo-com.svg' alt='codepen' height='30'>](https://codepen.io/iArsene69)  [<img src='https://github.com/iArsene69/iArsene69/blob/main/steam-svgrepo-com.svg' alt='codepen' height='30'>](https://steamcommunity.com/id/iArsene69/)  [<img src='https://github.com/iArsene69/iArsene69/blob/main/discord-v2-svgrepo-com.svg' alt='codepen' height='30'>](discordapp.com/users/844220260142809139)  
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iArsene69&layout=compact&theme=tokyonight)      
 
