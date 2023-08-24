@@ -1,4 +1,4 @@
-### Hi there 👋, I'm [Redacted]
+### Hi there 👋
 ![](https://github.com/iArsene69/iArsene69/blob/main/banner.jpg)
 
  I am a merely newbie who just got into this rabbit hole called programming.
